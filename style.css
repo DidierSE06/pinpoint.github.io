@@ -284,7 +284,7 @@ body.light .theme-toggle::after { transform: translateX(20px); }
   font-size: 9px; letter-spacing: 1px; text-transform: uppercase;
   color: var(--accent3); background: rgba(74,240,196,0.1);
   border: 1px solid rgba(74,240,196,0.25); border-radius: 10px;
-  padding: 2px 7px; font-weight: 600;
+  font-weight: 600;
   opacity: 0; transition: opacity 0.3s;
 }
 .pin-list-sort-badge.visible { opacity: 1; }
